@@ -1,3 +1,5 @@
 Backend/src/main/resources/bin/
 
 backend/src/main/resources/favorable-logic-442105-e9-a4027010002a.json
+.DS_Store
+package-lock.json
